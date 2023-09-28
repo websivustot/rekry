@@ -6,9 +6,9 @@ import React, { useState, useEffect } from "react";
 import Image from "next/image";
 import { Carousel, Card, Button } from "flowbite-react";
 
-export const metadata: Metadata = {
-  title: "Recruiting Company",
-};
+// export const metadata: Metadata = {
+//   title: "Recruiting Company",
+// };
 
 interface JobItem {
   id: string;
